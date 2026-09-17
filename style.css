@@ -1,0 +1,26 @@
+/* Style main heading */
+h1 {
+  text-align: center;
+  color: darkblue;
+}
+
+/* Add Expense section */
+#add-expense {
+  background-color: #f41010;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+/* Your Expenses section */
+#your-expenses {
+  background-color: #7b06e2;
+  padding: 15px;
+  margin: 20px 0;
+}
+
+/* Input fields */
+input {
+  display: block;
+  margin: 8px 0;
+  padding: 5px;
+}
